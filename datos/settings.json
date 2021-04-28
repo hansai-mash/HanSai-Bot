@@ -1,14 +1,14 @@
 
 {
 	"prefix": ".",
-	"ownerNumber": "16502639316",
+	"ownerNumber": "56964418765",
 	"BarBarKey": "YOURAPIKEY",
 	"Vhtearkey": "YOURAPIKEY",
 	"LolHumanKey": "YOURAPIKEY",
         "Vinzapi": "YOURAPIKEY",
         "Itsmeikyapi": "YOURAPIKEY",
 	"limit": "80",
-  "memberlimit": "1",
+  "memberlimit": "5",
   "cr": "HanSai-bot",
   "hargalimit": "500",
   "NamaBot": "HanSai-bot",
